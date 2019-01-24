@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ExceptionHomework\ExceptionHomework\obj\Debug\ExceptionHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExceptionHomework\ExceptionHomework\obj\Debug\ExceptionHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExceptionHomework\ExceptionHomework\bin\Debug\ExceptionHomework.exe.config
+C:\Users\User\source\repos\ExceptionHomework\ExceptionHomework\bin\Debug\ExceptionHomework.exe
+C:\Users\User\source\repos\ExceptionHomework\ExceptionHomework\bin\Debug\ExceptionHomework.pdb
+C:\Users\User\source\repos\ExceptionHomework\ExceptionHomework\obj\Debug\ExceptionHomework.exe
+C:\Users\User\source\repos\ExceptionHomework\ExceptionHomework\obj\Debug\ExceptionHomework.pdb
